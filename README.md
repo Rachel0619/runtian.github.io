@@ -8,9 +8,9 @@
 - Other tools: Excel, Google Sheets, Tableau, Jupyter Notebook, Docker, Git, Bash, Flask, Gradio, GPT, Claude, Huggingface.
 
 ## Education				       		
-- M.S., Data Science	| University of British Columbia
-- M.S., Finance	| University of Rochester, Simon Business School        		
-- B.S., E-Commerce | University of International Business and Economics
+- M.S., Data Science @ University of British Columbia
+- M.S., Finance	@ University of Rochester, Simon Business School        		
+- B.S., E-Commerce @ University of International Business and Economics
 
 ## Work Experience
 **Prompt Engineer @ Meta via TEKSystems (_Feb. 2025 - Present_)**
@@ -33,8 +33,7 @@
 - Currently conducting research and developing machine learning models to estimate carbon sequestration of western hemlock in Oregon using multi-source remote sensing data and satellite imagery.
 
 ## Competitions
-### WIDS 2025 Kaggle Competition (Ranked 24/1075)
-[Code](https://www.kaggle.com/code/rachelli0619/wids-2025-version2?scriptVersionId=236962576)
+### WIDS 2025 Kaggle Competition (Ranked 24/1075) [Code](https://www.kaggle.com/code/rachelli0619/wids-2025-version2?scriptVersionId=236962576)
 - Developed a multi-outcome machine learning model to predict sex and ADHD diagnosis using functional MRI data and socio-demographic features to uncover gender inequities, achieving a weighted F1 score of 0.8 on test data. Engineered effective data cleaning, feature extraction and preprocessing workflows for neuroimaging datasets.
 
 ### Pytorch 2025 Docathon (Second Prize Winner)
