@@ -30,7 +30,7 @@
 A multi-modal RAG (Retrieval-Augmented Generation) application that allows you to upload PDF documents and ask questions about their content. The system can process and understand text, tables, and images within PDFs to provide comprehensive answers.
 
 ### [VanTrails](https://github.com/Rachel0619/VanTrails)
-VanTrails is an intelligent trail recommendation system that helps hikers discover the perfect trails in Vancouver, BC. Using advanced RAG technology, the system provides personalized, conversational recommendations based on user queries like "I want an easy hike with my dog near Vancouver" or "Show me challenging winter trails with great views."
+An intelligent trail recommendation system that helps hikers discover the perfect trails in Vancouver, BC. Using advanced RAG technology, the system provides personalized, conversational recommendations based on user queries like "I want an easy hike with my dog near Vancouver" or "Show me challenging winter trails with great views."
 
 ## Volunteer Experience
 **CRM Specialist @ AI Summit Vancouver (_Aug. 2025 - Present_)**
