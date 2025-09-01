@@ -34,7 +34,7 @@ An intelligent trail recommendation system that helps hikers discover the perfec
 
 ## Volunteer Experience
 **CRM Specialist @ AI Summit Vancouver (_Aug. 2025 - Present_)**
-- Built and maintained automated marketing workflows in CRM system (SendPulse) to streamline sponsorship acquisition and ticket sales, engaging 450+ potential attendees and 100+ sponsors through targeted and strategic email campaigns.
+- Built and maintained automated marketing workflows in CRM system (SendPulse) to streamline sponsors cold outreach and ticket sales, engaging 450+ potential attendees and 100+ sponsors through targeted and strategic email campaigns.
 
 **AI Engineer @ Delta Rising Foundation (_Aug. 2025 - Present_)**
 - Currently conducting research and developing machine learning models to estimate carbon sequestration of western hemlock in Oregon using multi-source remote sensing data and satellite imagery.
