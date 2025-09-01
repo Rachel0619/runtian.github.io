@@ -25,6 +25,13 @@
 - Implemented ETL pipelines to extract, transform, and load external data from web scraping to a Postgres database hosted on Azure, streamlining data ingestion and storage and improving data retrieval efficiency and scalability.
 - Generated messages using Large Language Models (GPT-3.5 & Llama 3), LangChain framework and advanced prompting methods.
 
+## Projects
+### PagePilot [Code](https://github.com/Rachel0619/PagePilot)
+A multi-modal RAG (Retrieval-Augmented Generation) application that allows you to upload PDF documents and ask questions about their content. The system can process and understand text, tables, and images within PDFs to provide comprehensive answers.
+
+### VanTrails [Code](https://github.com/Rachel0619/VanTrails)
+VanTrails is an intelligent trail recommendation system that helps hikers discover the perfect trails in Vancouver, BC. Using advanced RAG technology, the system provides personalized, conversational recommendations based on user queries like "I want an easy hike with my dog near Vancouver" or "Show me challenging winter trails with great views."
+
 ## Volunteer Experience
 **CRM Specialist @ AI Summit Vancouver (_Aug. 2025 - Present_)**
 - Built and maintained automated marketing workflows in CRM system (SendPulse) to streamline sponsorship acquisition and ticket sales, engaging 450+ potential attendees and 100+ sponsors through targeted and strategic email campaigns.
