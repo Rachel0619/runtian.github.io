@@ -34,7 +34,7 @@ An LLM recommendation application that helps developers and researchers choose t
 An intelligent trail recommendation system that helps hikers discover the perfect trails in Vancouver, BC. Using advanced RAG technology, the system provides personalized, conversational recommendations based on user queries like "I want an easy hike with my dog near Vancouver" or "Show me challenging winter trails with great views."
 
 ## Volunteer Experience
-**CRM Specialist @ AI Summit Vancouver (_Aug. 2025 - Present_)**
+**CRM Specialist @ AI Summit Vancouver (_Aug. 2025 - Oct. 2025_)**
 - Built and maintained automated marketing workflows with CRM system (SendPulse) and Automation 360 to streamline sponsors cold outreach and ticket sales, engaging 100+ sponsors and 450+ potential attendees through targeted and strategic campaigns.
 - Created detailed CRM workflow documentation and coordinated cross-functionally via Asana.
 
